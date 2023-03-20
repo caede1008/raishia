@@ -35,6 +35,9 @@ img {
 
 /* 960px以下の時に使用するCSS  */
 @media screen and (max-width: 417px) {
+    body{
+        width: 100%;
+    }
     .absolute{
         width: 80%;
         top:78%;
